@@ -21,7 +21,7 @@ Sou um estudante de programação, faço faculdade de Sistemas de Informação n
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Contato
 
 <div align="left">
 <a href="https://www.linkedin.com/in/karlos-eduardo-de-freitas-bellini-marin-a88b342b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
