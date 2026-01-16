@@ -1,3 +1,5 @@
+![Header](./github-header-banner.png)
+
 # 👋 Olá, eu sou o Kadu!
 
 
