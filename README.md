@@ -1,7 +1,8 @@
-![Header](./download.png)
-
 # 👋 Olá, eu sou o Kadu!
 
+<p align="center">
+  <img src="download.png" alt="Descrição da Imagem">
+</p>
 
 ### 🦇 Sobre mim
 Sou um estudante de programação, faço faculdade de Sistemas de Informação na Universidade Federal de Mato Grosso do Sul (UFMS), atualmente estou no 5° Semestre, período noturno, comecei em 2024, logo depois de me formar no ensino médio. Minha principal meta no momento é trabalhar na área para aprender e incrementar meu nível profissional.
