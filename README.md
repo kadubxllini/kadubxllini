@@ -1,15 +1,11 @@
 # 👋 Olá, eu sou o Kadu!
 
-<p align="center">
-  <img src="download.png" alt="">
-</p>
-
 ### 🦇 Sobre mim
 Sou um estudante de programação, faço faculdade de Sistemas de Informação na Universidade Federal de Mato Grosso do Sul (UFMS), atualmente estou no 5° Semestre, período noturno, comecei em 2024, logo depois de me formar no ensino médio. Minha principal meta no momento é trabalhar na área para incrementar meu nível profissional. Tenho experiência com estruturação de bancos de dados SQL e lógica de programação com Python, C, Java e HTML/CSS. Além de ter facilidade, gosto de aprender coisas novas.
 
 - 🚀 Gosto de aprender coisas novas e estou sempre buscando desafios para evoluir profissionalmente.
 - 💼 Não trabalho na área ainda, mas tenho total disponibilidade.
-- 🎮 Curiosidade: gosto muito de jogar e de cinema.
+- 🎮 Curiosidade: quando nao estou aprendendo algo novo, gosto de jogar e principalmente ver filmes.
 
 ---
 
