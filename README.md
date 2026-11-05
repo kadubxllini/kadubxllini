@@ -1,79 +1,64 @@
-<!-- profile:reviewed-2026-11-04 | Atualize as seções com evidências dos projetos; preserve trabalho paralelo. -->
 # Kadu Bellini
 
-### Desenvolvimento full stack · Integrações · Automação com IA
+Estudo **Sistemas de Informação na UFMS**, trabalho com suporte na **Malti Sistemas** e também atuo na **Trainner RH**, em Campo Grande, MS.
 
-Transformo rotinas de gestão em software: do estoque e do atendimento à integração de APIs e à operação em produção.
+Boa parte dos meus projetos começa com alguma coisa que vejo no dia a dia: uma rotina repetitiva, dados espalhados ou um sistema que poderia ser mais fácil de usar. Gosto de entender o processo, montar a solução e acompanhar o que acontece depois que ela entra em uso.
 
-Sou estudante de **Sistemas de Informação na UFMS**, trabalho com suporte na **Malti Sistemas** e também atuo na **Trainner RH**. O contato com usuários e processos reais influencia o que construo: interfaces claras, dados organizados e menos trabalho manual.
+Trabalho com desenvolvimento web, integrações e automação. Também cuido da implantação e manutenção das aplicações em Linux.
 
-[LinkedIn](https://www.linkedin.com/in/kadubxllini/) · [Estocador](https://estocador.clasure.com.br) · Campo Grande, MS
+[LinkedIn](https://www.linkedin.com/in/kadubxllini/) · [Clasure](https://clasure.com.br) · [Estocador](https://estocador.clasure.com.br)
 
----
+## Projetos em que trabalho
 
-## O que estou construindo
+### Estocador - gestão para brechós
 
-**Estocador — gestão para brechós**
-
-Sistema para organizar estoque, fornecedores, consignação, vendas no PDV e repasses. Trabalho na integração entre esses módulos, na evolução das interfaces e na manutenção da aplicação.
+Estoque, consignação, fornecedores, vendas no PDV e repasses. É um dos projetos em que mais trabalho a ligação entre as regras do negócio e a interface: da entrada de uma peça até a venda e o acerto com o fornecedor.
 
 `TypeScript` · `React` · `Next.js` · `Prisma` · `SQLite`
 
-[Conhecer o projeto](https://estocador.clasure.com.br) · Código privado
+[Acessar o Estocador](https://estocador.clasure.com.br) · Código privado
 
-**IA Seleção — apoio ao recrutamento**
+### IA Seleção - apoio ao recrutamento
 
-Aplicação para integrar vagas e currículos, estruturar requisitos e apoiar a triagem com evidências. Inclui processamento em segundo plano e acompanhamento de progresso, mantendo a avaliação final com o recrutador.
+Aplicação para trabalhar com vagas, currículos e requisitos, usando IA para apoiar a triagem. Tem processamento em segundo plano e acompanhamento do progresso das análises. A decisão final continua com o recrutador.
 
-`Python` · `TypeScript` · `Integração de APIs` · `IA aplicada` · `Docker`
+`Python` · `TypeScript` · `APIs` · `Docker`
 
 Projeto de acesso restrito
 
-**barberIA — gestão e agendamento**
+### barberIA - gestão e agendamento
 
-SaaS para barbearias com agenda, catálogo de serviços, atendimento e gestão financeira. A evolução envolve isolamento entre estabelecimentos, prevenção de conflitos de horário e manutenção de dados legados.
+Sistema para barbearias com agenda, serviços, atendimento e gestão financeira. Trabalho em questões como evitar horários conflitantes, separar os dados de cada estabelecimento e manter compatibilidade com dados antigos.
 
 `Node.js` · `Express` · `EJS` · `SQLite`
 
-Código privado
+[Conhecer o barberIA](https://barberia.com.br) · Código privado
 
-**Auto Bellini Veículos — vitrine e estoque**
+### Auto Bellini Veículos - vitrine e estoque
 
-Vitrine responsiva de veículos com painel administrativo e integração com a API do portal Shopcar.
+Site de veículos com painel administrativo e integração com a API do Shopcar para trabalhar com o estoque da loja.
 
 `React` · `TypeScript` · `PHP` · `SQLite`
 
-[Apresentação do projeto](https://www.linkedin.com/feed/update/urn:li:activity:7491292884399472640/)
+[Ver a apresentação](https://www.linkedin.com/feed/update/urn:li:activity:7491292884399472640/)
 
-## Automação que vai além do script
+## Outros trabalhos
 
-Também configuro e evoluo fluxos com agentes de IA e integrações entre aplicações: preparação de conteúdo, revisão humana, aprovações vinculadas à versão certa e confirmação das ações executadas.
+Além dos sites, trabalho com **SQL, Firebird e relatórios em FastReport**, incluindo consultas, manutenção e migração de bases. O suporte me aproxima dos problemas que aparecem quando alguém realmente depende do sistema para trabalhar.
 
-Na operação, trabalho com **Linux/VPS, SSH, Docker e systemd**, além de testes, logs, backups e controle de versões. Meu foco é ligar uma tarefa ao seu resultado verificável — inclusive quando uma integração falha ou precisa ser retomada sem duplicar ações.
+Também uso IA no desenvolvimento e monto fluxos com agentes para pesquisa, conteúdo e tarefas operacionais. Isso envolve integrar ferramentas, guardar o contexto necessário e conferir o resultado. Tenho trabalhado bastante com aprovações, recuperação de falhas e prevenção de ações duplicadas nesses fluxos.
 
-## Código aberto para explorar
+Na infraestrutura, uso **Linux, SSH, Docker e systemd** para publicar aplicações, acompanhar logs e manter serviços e backups.
 
-| Projeto | O que você encontra | Tecnologias |
-| --- | --- | --- |
-| [VesteBem](https://github.com/gDABLIUolf/progweb-lojaonline) | E-commerce acadêmico desenvolvido **em equipe**, com catálogo, carrinho, pedidos e autenticação | Java, Spring Boot, Vue.js, PostgreSQL, Docker |
-| [Jarvis Acadêmico](https://github.com/kadubxllini/projeto_jarvis) | Consulta a PDFs com RAG, busca semântica, tarefas e agenda de estudos | Python, Gradio, ChromaDB, SQLite |
-| [Banco Trainner](https://github.com/kadubxllini/banco-trainner) | Aplicação para organizar propostas e apoiar rotinas administrativas | Python, Flask, HTML, CSS |
-| [Controle de Faltas](https://github.com/kadubxllini/presenca) | Aplicação web para acompanhar faltas por disciplina | JavaScript, Node.js, Express, SQLite |
+## Projetos com código público
 
-## Ferramentas que uso
+| Projeto | Sobre |
+| --- | --- |
+| [VesteBem](https://github.com/gDABLIUolf/progweb-lojaonline) | E-commerce acadêmico feito em equipe, com Java, Spring Boot, Vue.js e PostgreSQL. |
+| [Jarvis Acadêmico](https://github.com/kadubxllini/projeto_jarvis) | Assistente em Python para consultar PDFs com RAG e busca semântica, além de organizar tarefas e estudos. |
+| [Banco Trainner / RADAR](https://github.com/kadubxllini/banco-trainner) | Aplicação em Python e Flask para propostas, relatórios e rotinas administrativas. |
+| [Controle de Faltas](https://github.com/kadubxllini/presenca) | Aplicação com Node.js, Express e SQLite para acompanhar faltas nas disciplinas da faculdade. |
 
-- **Interfaces:** TypeScript, JavaScript, React, Next.js, Vue.js, HTML e CSS.
-- **Back-end e integrações:** Python, Flask, Node.js, Express, Java/Spring Boot e PHP.
-- **Dados:** SQL, PostgreSQL, MySQL, SQLite e Prisma.
-- **IA e automação:** RAG, busca semântica, integração de modelos e fluxos com agentes.
-- **Entrega e operação:** Git, GitHub, Docker, Linux, testes e manutenção em VPS.
+Os projetos misturam trabalho, estudo e ideias próprias. Alguns têm código privado; os públicos mostram outras partes do que venho aprendendo e construindo.
 
-## Vamos conversar
-
-Tenho interesse em oportunidades e colaboração em **desenvolvimento full stack, integração de sistemas e automação de processos**.
-
-[Fale comigo no LinkedIn](https://www.linkedin.com/in/kadubxllini/).
-
----
-
-**English:** Information Systems student at UFMS, building web applications, API integrations and AI-assisted workflows. My projects span retail management, scheduling, recruitment support and academic tools. I work across application development and Linux-based deployment, with a focus on practical workflows and verifiable results.
+Se quiser conversar sobre algum deles ou sobre uma oportunidade, pode me chamar pelo [LinkedIn](https://www.linkedin.com/in/kadubxllini/).
