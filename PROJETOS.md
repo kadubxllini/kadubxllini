@@ -8,9 +8,9 @@ Gestão de estoque, consignação, vendas e repasses para brechós e lojas. O tr
 
 TypeScript, React, Next.js, Prisma e SQLite.
 
-![Página pública do Estocador](assets/projects/estocador.png)
+![Dashboard do Estocador com dados fictícios](assets/projects/estocador.png)
 
-Captura da página pública, incluindo a demonstração com dados fictícios que o próprio site oferece.
+Componentes reais do painel e da navegação renderizados em ambiente local isolado, com respostas de API fictícias. Nenhuma conta, venda ou banco de produção foi usado.
 
 [Visitar o Estocador](https://estocador.clasure.com.br)
 
@@ -20,9 +20,9 @@ Sistema de gestão e agendamento para barbearias. Reúne agenda, serviços, prof
 
 Node.js, Express, EJS e SQLite.
 
-![Apresentação pública do barberIA](assets/projects/barberia.png)
+![Dashboard do barberIA com dados fictícios](assets/projects/barberia.png)
 
-A página pública mostra capturas do sistema com dados de demonstração.
+Aplicação real executada localmente com agenda, clientes e financeiro fictícios em banco de teste isolado.
 
 [Visitar o barberIA](https://barberia.clasure.com.br)
 
@@ -62,12 +62,12 @@ Aplicação interna de apoio ao recrutamento. Importa vagas e candidatos, organi
 
 Python, FastAPI, TypeScript, Next.js, SQLite e Docker.
 
-![Tela de acesso do IA Seleção](assets/projects/ia-selecao.png)
+![Dashboard do IA Seleção com dados fictícios](assets/projects/ia-selecao.png)
 
-Tela real de acesso, executada localmente. O projeto exige autorização; dados de candidatos, currículos e resultados de recrutamento não fazem parte desta apresentação pública.
+Frontend real do sistema executado localmente com empresa, vagas e contagens fictícias fornecidas por respostas de API de demonstração. Não foram usados currículos, resultados de triagem ou contas reais.
 
 ## Sobre as imagens
 
-Capturas feitas em novembro de 2026. As imagens dos sites foram obtidas em páginas públicas, sem acesso administrativo. As demonstrações não representam resultados comerciais nem dados de clientes. O código dos projetos apresentados aqui continua privado.
+Capturas feitas em novembro de 2026. As vitrines foram capturadas em páginas públicas. Os dashboards foram renderizados localmente com dados sintéticos, conforme descrito em cada projeto. As demonstrações não representam resultados comerciais nem dados de clientes. O código dos projetos apresentados aqui continua privado.
 
 [Voltar ao perfil](README.md)

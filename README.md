@@ -30,7 +30,7 @@ Aplicação para trabalhar com vagas, currículos e requisitos, usando IA para a
 
 `Python` · `TypeScript` · `APIs` · `Docker`
 
-Projeto de acesso restrito
+[Ver o painel com dados fictícios](PROJETOS.md#ia-seleção) · Projeto de acesso restrito
 
 ### barberIA - gestão e agendamento
 
@@ -39,6 +39,14 @@ Sistema para barbearias com agenda, serviços, atendimento e gestão financeira.
 `Node.js` · `Express` · `EJS` · `SQLite`
 
 [Conhecer o barberIA](https://barberia.clasure.com.br) · Código privado
+
+### HEYO - loja de roupas
+
+Loja de roupas oversized e fitness integrada ao Estocador. O catálogo mantém a ligação entre cada peça, suas opções de cor e tamanho e o estoque de origem; a loja reúne vitrine, contas de clientes e pedidos.
+
+`JavaScript` · `TypeScript` · `Node.js` · `SQLite`
+
+[Visitar a HEYO](https://useheyo.com.br) · [Ver a apresentação](PROJETOS.md#heyo) · Código privado
 
 ### Auto Bellini Veículos - vitrine e estoque
 
