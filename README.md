@@ -8,6 +8,12 @@ Trabalho com desenvolvimento web, integrações e automação. Também cuido da 
 
 [LinkedIn](https://www.linkedin.com/in/kadubxllini/) · [Clasure](https://clasure.com.br) · [Estocador](https://estocador.clasure.com.br)
 
+[Ver imagens e apresentação dos projetos](PROJETOS.md)
+
+| Estocador | barberIA | HEYO |
+| --- | --- | --- |
+| [![Estocador](assets/projects/estocador.png)](PROJETOS.md#estocador) | [![barberIA](assets/projects/barberia.png)](PROJETOS.md#barberia) | [![HEYO](assets/projects/heyo.png)](PROJETOS.md#heyo) |
+
 ## Projetos em que trabalho
 
 ### Estocador - gestão para brechós
@@ -32,7 +38,7 @@ Sistema para barbearias com agenda, serviços, atendimento e gestão financeira.
 
 `Node.js` · `Express` · `EJS` · `SQLite`
 
-[Conhecer o barberIA](https://barberia.com.br) · Código privado
+[Conhecer o barberIA](https://barberia.clasure.com.br) · Código privado
 
 ### Auto Bellini Veículos - vitrine e estoque
 
