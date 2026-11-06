@@ -2,6 +2,14 @@
 
 Alguns dos projetos em que trabalho têm código privado. Esta página reúne imagens, contexto e links para conhecer o que foi construído.
 
+## Clasure
+
+Na Clasure, desenvolvemos sites e sistemas para empresas. O site institucional apresenta os serviços e mostra como a equipe trabalha.
+
+![Página inicial da Clasure](assets/projects/clasure.png)
+
+[Visitar a Clasure](https://clasure.com.br/)
+
 ## Estocador
 
 Gestão de estoque, consignação, vendas e repasses para brechós e lojas. O trabalho envolve ligar a entrada da peça à venda e ao acerto com o fornecedor, mantendo os dados de cada estabelecimento separados.

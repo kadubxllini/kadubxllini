@@ -16,6 +16,14 @@ Trabalho com desenvolvimento web, integrações e automação. Também cuido da 
 
 ## Projetos em que trabalho
 
+### Clasure - sites e sistemas para empresas
+
+Na Clasure, desenvolvemos sites e sistemas para empresas. Trabalho no desenvolvimento das aplicações, nas integrações e na publicação.
+
+[![Página inicial da Clasure](assets/projects/clasure.png)](PROJETOS.md#clasure)
+
+[Visitar a Clasure](https://clasure.com.br/) · [Ver apresentação](PROJETOS.md#clasure)
+
 ### Estocador - gestão para brechós
 
 Estoque, consignação, fornecedores, vendas no PDV e repasses. É um dos projetos em que mais trabalho a ligação entre as regras do negócio e a interface: da entrada de uma peça até a venda e o acerto com o fornecedor.
